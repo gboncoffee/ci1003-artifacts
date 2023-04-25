@@ -1,9 +1,4 @@
-Extremelly stupid and not really usefull criptography created for Introduction
-to Computer Science subject. Based on the long-known and ridiculously simple
-Caesar cipher, improved with ideas I had on the bus back from my campus. This
-junk implementation only supports the english alphabet, spaces and algarisms.
+Artifacts from my classes of "CI1003 - Introdução à Ciência da Computação"
+(introduction to the computer science) of my bachaelor degree.
 
-tyeily stands for "Thank You Eduarda, I Love You". It doesn't mean anything
-special, but I wanted to say thanks to Eduarda.
-
-# If you use this in production, you deserve everything that'll happen.
+# If you use anything on this repo in production, you deserve everything that'll happen.
